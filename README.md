@@ -1,6 +1,4 @@
-Claro, aqui está um exemplo de como você pode escrever um README.md para o GitHub:
-
-# Projeto de Exemplo
+# Projeto de Exemplo - Padrão de Projeto Singleton - JAVA
 
 ## Descrição
 Este projeto é um exemplo simples de implementação do padrão de projeto Singleton em Java.
@@ -19,13 +17,13 @@ Este projeto é um exemplo simples de implementação do padrão de projeto Sing
 Contribuições são bem-vindas! Se você encontrar algum problema ou tiver alguma sugestão de melhoria, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 ## Autores
-- [Seu Nome](https://github.com/seu-usuario) - Desenvolvedor
+- [Seu Nome](https://github.com/mario-evangelista) - Desenvolvedor
 
 ## Licença
 Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
 
 ## Reconhecimentos
-- Inspiração para este projeto veio de [fonte de inspiração](https://exemplo.com).
+- Inspiração para este projeto veio de [fonte de inspiração](https://github.com/digitalinnovationone/lab-padroes-projeto-java).
 
 ## Agradecimentos Especiais
 Agradecemos à equipe do GitHub e à comunidade de desenvolvedores por fornecerem recursos e suporte.
