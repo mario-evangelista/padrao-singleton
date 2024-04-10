@@ -17,7 +17,7 @@ Este projeto é um exemplo simples de implementação do padrão de projeto Sing
 Contribuições são bem-vindas! Se você encontrar algum problema ou tiver alguma sugestão de melhoria, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 ## Autores
-- [Seu Nome](https://github.com/mario-evangelista) - Desenvolvedor
+- [Mário Eavneglista](https://github.com/mario-evangelista) - Desenvolvedor
 
 ## Licença
 Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
